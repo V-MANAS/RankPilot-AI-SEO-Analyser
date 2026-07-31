@@ -1,8 +1,8 @@
 # 🚀 RankPilot - AI-Powered SEO Analytics Platform
 
-<p align="center">
+<!-- <p align="center">
   <img src="./docs/logo.png" alt="RankPilot Logo" width="180"/>
-</p>
+</p> -->
 
 <p align="center">
   <strong>Analyze • Compare • Optimize</strong>
