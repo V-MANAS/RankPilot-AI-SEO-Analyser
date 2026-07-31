@@ -359,7 +359,7 @@ RankPilot
 **Manas Varade**
 
 - GitHub: https://github.com/V-MANAS
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: https://www.linkedin.com/in/manas-varade-239a9b2a3/
 
 ---
 
