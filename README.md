@@ -206,44 +206,6 @@ This fallback mechanism minimizes failures and improves the reliability of SEO a
 
 ---
 
-# 📸 Screenshots
-
-## Homepage
-
-![Homepage](./docs/homepage.png)
-
----
-
-## Dashboard
-
-![Dashboard](./docs/dashboard.png)
-
----
-
-## AI SEO Consultant
-
-![AI Consultant](./docs/consultant.png)
-
----
-
-## Competitor Analysis
-
-![Competitor Analysis](./docs/competitor.png)
-
----
-
-## Historical Analytics
-
-![History](./docs/history.png)
-
----
-
-## Rank Tracker
-
-![Rank Tracker](./docs/ranktracker.png)
-
----
-
 # 🚀 Installation
 
 ## Clone Repository
